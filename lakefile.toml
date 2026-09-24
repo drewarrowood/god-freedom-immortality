@@ -1,0 +1,6 @@
+name = "GodFreedomImmortality"
+version = "0.1.0"
+defaultTargets = ["GodFreedomImmortality"]
+
+[[lean_lib]]
+name = "GodFreedomImmortality"
